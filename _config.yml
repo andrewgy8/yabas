@@ -31,6 +31,7 @@ jekyll_analytics:
     anonymizeIp: false 
 # Build settings
 theme: minima
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
   - jekyll-admin
