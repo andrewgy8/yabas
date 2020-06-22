@@ -25,18 +25,14 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.grahamyooll.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yuppiepuppie
 github_username:  andrewgy8
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-84129439-1
-    anonymizeIp: false 
+google_analytics: UA-84129439-1
+
 # Build settings
 theme: minima
-whitelist: 
-  - jekyll-analytics
+
 plugins:
   - jekyll-feed
   - jekyll-admin
-  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
