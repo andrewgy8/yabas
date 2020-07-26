@@ -34,6 +34,8 @@ Copy/pasting is even more harmful, I argue, to more junior developers. Junior de
 
 Before I continue, I must say that copy/paste is a very powerful concept, something that we all do. Almost magical. However, just like everything in life, too much of something can be detrimental. 
 
+![]({{ 'assets/images/victor-garcia-0yL6nXhn0pI-unsplash.jpg' | relative_url }})
+
 By copy/pasting, you are taking someone else’s answer to a very specific problem and using it for yours. On the face of it, that statement seems perfectly reasonable, right? But the trouble comes when you do not understand, or even worse, do not contemplate its interaction with your specific problem.
 
 To build up the habit, referencing someone else’s answer to solve your given problem is perfectly valid. If you are to use the given solution, do not copy/paste it. Instead, line by line, type it out. While typing, go line by line figuring out what every variable, argument, loop, etc. is doing. Don’t know what that argument does? Look it up. Don’t get this loop? Write it out so you do understand it. The key here is not being able to understand the code you are writing, but being able to read code quickly. This practice will help with that.
