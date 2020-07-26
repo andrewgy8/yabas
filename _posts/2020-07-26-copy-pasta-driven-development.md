@@ -2,20 +2,31 @@
 title: Copy/Pasta Driven Development®
 ---
 
+![]({{ 'assets/images/copy-paste-twins.jpg' | relative_url }})
+
 As seen in numerous pull requests, the conversation goes something like this:
 
 > Me: “Interesting solution. Where did this come from?”
+> 
 > Colleague: “I found it on Stack Overflow.”
+> 
 > Me: “Did you copy/paste it?”
+> 
 > Colleague: “Yes”
+> 
 > Me: “Do you **KNOW** what it does?”
+> 
 > Colleague: “Um… yeah.”
+> 
 > Me: “What does it do then? What are the implications of this solution?”
+> 
 > Colleague: “Let me find out…”
 
 This is what I call, the Copy/Pasta Driven Development® pattern. 
 
 Don’t know what to do? Google it. Find it. Copy it. Paste it. Profit?
+
+Probably not. 
 
 Everytime you select code from a browser, followed by pressing cmd+C and then cmd+V, I surmise you are robbing yourself of precious time to up your knowledge.
 
@@ -34,12 +45,20 @@ Take the couple of minutes to fully digest what is happening in the code you are
 Bonus conversation:
 
 > Colleague: “Hey, Andrew, this piece of code doesn’t work like it’s supposed to. Could you take a look? My tests are failing, and I don't know why.”
+> 
 > Me: “Where did this new line come from?”
+> 
 > Colleague: “From this other file.”
+> 
 > Me: “So, you copied it?”
+> 
 > Colleague: “Yeah”
+> 
 > Me: “Do you know what it’s doing then?”
+> 
 > Colleague: “Not really...”
+> 
 > Me: “Ok, then delete that code and start over without copy/pasting.”
 10 minutes later I hear...
+> 
 > Colleague: "Ohhhhhhhh!"

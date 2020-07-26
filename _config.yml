@@ -21,7 +21,7 @@
 title: YABAS
 email: andrewgy8@gmail.com
 description: Yet, another blog about stuff. 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.grahamyooll.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yuppiepuppie
 github_username:  andrewgy8
@@ -33,7 +33,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
-
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Andrew Graham-Yooll"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
