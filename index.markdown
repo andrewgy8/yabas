@@ -3,12 +3,8 @@ title: YABAS
 layout: home
 ---
 
-Yet, another blog about software. 
+Yet, another blog about stuff. 
 
-If you are reading this, you must be deparate. 
+I hope you find the writings here useful. At one point in my life, they were useful to me!
 
-I feel for you. I've been there too. I keep it short and to the point. And try not to bore you too much. I'll try not to sound pompus, and "know it all" because... I don't. 
-
-But I make no promises. No returns expcepted. And you are not my primary concern. 
-
-Sorry jefe.
+![]({{ 'assets/images/index_meme.jpg' | relative_url }})
